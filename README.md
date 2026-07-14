@@ -262,7 +262,6 @@ This project is released under the **MIT License**. See `LICENSE` for details.
 
 <div align="center">
 
-Built by **Deepu James** · **BML Munjal University** — Generative AI & LLMs  
-RTX 3060 6GB · Python 3.11 · Windows
+
 
 </div>
