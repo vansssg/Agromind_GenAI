@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environments
+.env
+venv/
+.venv/
+env/
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Local databases and stores
+chromadb_store/
+agromind_logs.db
+agromind_logs.db-journal
+
+# Large Model weights, checkpoints, and adapters
+agromind_adapter/
+agromind_merged/
+checkpoint-*/
+
+# Local run outputs & dataset cache
+evaluation_results.csv
+evaluation_chart.png
+all_model_outputs.json
+metrics_summary.json
+error_analysis.json
+baseline1_outputs.json
+ft_outputs.json
+data/processed/
+data/Crop_recommendation.csv
