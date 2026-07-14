@@ -1,18 +1,15 @@
 <div align="center">
-🌾 AgroMind
 
-Climate-Smart Crop Advisor
+# 🌾 AgroMind
 
-Fine-tuning Gemma 2B-IT with QLoRA + Retrieval-Augmented Generation for India's Smallholder Farmers
+### Climate-Smart Crop Advisor
 
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
+> Fine-tuning Gemma 2B-IT with QLoRA + Retrieval-Augmented Generation
 
-Built for the Generative AI & LLMs course — BML Munjal University
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Gemma](https://img.shields.io/badge/LLM-Gemma_2B_IT-orange)
+![QLoRA](https://img.shields.io/badge/PEFT-QLoRA-success)
+![RAG](https://img.shields.io/badge/RAG-ChromaDB-purple)
 
 </div>
 
